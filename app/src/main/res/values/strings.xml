@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Login Page</string>
+    <string name="name">What\'s New\?</string>
+    <string name="ver">V 1.32.1</string>
+    <string name="connect">Connect To Multiple Speakers</string>
+    <string name="you">You can now connect to multiple\n bluetooth speakers at a time</string>
+    <string name="broad">Broadcast Party Venue</string>
+    <string name="notify">Notify friends nearby of an on going party</string>
+    <string name="flutter">Flutter Interactive</string>
+    <string name="run">Run a codelab from your mobile phone and \nshare with the world.</string>
+    <string name="sign">Sign In</string>
+    <string name="up">Sign Up</string>
+    <string name="reset">Reset Passwords?</string>
+    <string name="sig">Signup</string>
+    <string name="parte">Parte After Parte.</string>
+    <string name="s">Sign In</string>
+    <string name="end">Endless Partying possibilities awaits you.\nKindly fill in your email and password.</string>
+    <string name="e">E-mail</string>
+    <string name="pass">Password</string>
+    <string name="empty">Empty Dashboard</string>
+    <string name="agree">Agree to our Terms and Condition</string>
+    <string name="si">Sign Up</string>
+    <string name="m">Male</string>
+    <string name="f">Female</string>
+    <string name="gen">Gender</string>
+    <string name="use">Username</string>
+    <string name="confirm">Confirm Password</string>
+    <string name="p">Password</string>
+    <string name="mail">E-mail Address</string>
+    <string name="full">Full Name</string>
+    <string name="s3">Sign Up</string>
+</resources>
